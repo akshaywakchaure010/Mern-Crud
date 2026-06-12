@@ -3,7 +3,7 @@ import axios from "axios";
 
 function App() {
 
-const API = "https://mern-crud-golt.onrender.com/students";
+const API = "https://mern-crud-bvog.onrender.com/students";
 
   const [students, setStudents] = useState([]);
   const [name, setName] = useState("");
